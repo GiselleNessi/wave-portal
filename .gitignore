@@ -4,6 +4,7 @@ coverage
 coverage.json
 typechain
 .husky
+.DS_Store
 
 #Hardhat files
 cache
